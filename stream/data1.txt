@@ -1,0 +1,10 @@
+ini adalah file external
+ini adalah baris ke-2
+
+data
+No  Nama
+1   aji
+2   siti
+3   putra
+4   rizki
+5   rifki
